@@ -1307,7 +1307,7 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #0062d3;
+background-color:#b5792f;
   color: #fff;
   transition: all 500ms ease;
 }
@@ -1315,7 +1315,7 @@ footer .credits a {
 .button-a {
   background-color: #724F23;
   color: #fff;
-  border-color: #cde1f8;
+  border-color: white;
 }
 
 .button-big {
